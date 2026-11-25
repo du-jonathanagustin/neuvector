@@ -1,5 +1,8 @@
 # UDS Package NeuVector
 
+[![Official UDS release](https://img.shields.io/github/v/release/uds-packages/neuvector)](https://github.com/uds-packages/neuvector/releases/latest)
+[![Official UDS build](https://github.com/uds-packages/neuvector/actions/workflows/release.yaml/badge.svg?branch=main)](https://github.com/uds-packages/neuvector/actions/workflows/release.yaml?query=branch%3Amain)
+
 This package is designed to be deployed on [UDS Core](https://github.com/defenseunicorns/uds-core) and is based on the upstream [NeuVector](https://neuvector.github.io/neuvector-helm/) chart.
 
 NeuVector is a comprehensive container security platform that provides runtime protection, vulnerability management, and compliance monitoring for Kubernetes environments. It offers full-lifecycle container security including network segmentation, behavior monitoring, and threat detection for cloud-native applications.
